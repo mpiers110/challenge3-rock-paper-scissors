@@ -1,7 +1,5 @@
-# Rock-Paper-Scissors-by-mpiers110
+# Simple Rock-Paper-Scissors
 <!-- for github badges (buttons) https://shields.io/ -->
-
-> **Simple Rock-Paper-Scissors.**
 <p><u>Rock-Paper-Scissors</u> game developed by Henry Omiti as a Python Developer Challenge during the PLP Cohort 3(2023) Training on Python programming.</p>
 <p>The aim of the task was to learn about using python libraries.</p>
 <p>The program makes use of Tkinter and CustomTkinter libraries for making the GUI as well as the randint method of the random library.</p>
